@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        // VSCode JSX をチェックしてくれるようにする
+        "jsx": "react-jsx",
+        // ts2322 エラーでないようにする
+        "jsxImportSource": "@emotion/react"
+    }
+}
